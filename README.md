@@ -4,15 +4,14 @@
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Palych180)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:paulyugoroff@gmail.com)
 
-<h2>about me...<h2>
+## About me...
 
 
 I'm a frontend developer dedicated to crafting amazing user interfaces. My journey in web development is fueled by the aspiration to transform ideas into interactive web applications. Armed with HTML, CSS, JavaScript, and TypeScript, I focus on writing clean and accessible code. Leveraging modern technologies like React, I aim to build dynamic and high-quality web projects. My work's reflects not just my continuous growth but also my unwavering commitment to excellence in web development.
 
 
-<h2>Technologies I like and work with:</h2>
+## Technologies I like and work with:
 
-<p>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" style="margin:2px;"/>
@@ -28,4 +27,3 @@ I'm a frontend developer dedicated to crafting amazing user interfaces. My journ
 <img alt="Git Bash" src="https://img.shields.io/badge/Git_Bash-%23DC9D00?style=flat-square" style="margin:2px;"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" style="margin:2px;"/>
 <br/>
-</p>
