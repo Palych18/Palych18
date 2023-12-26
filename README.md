@@ -7,7 +7,13 @@
 ## About me...
 
 
-I'm a frontend developer dedicated to crafting amazing user interfaces.  My journey in web development is fueled by the aspiration to transform ideas into interactive web applications. Armed with __HTML__, __CSS__, __JavaScript__, and __TypeScript__, I focus on writing clean and accessible code. Leveraging modern technologies like __React__, I aim to build dynamic and high-quality web projects. My work's reflects not just my continuous growth but also my unwavering commitment to excellence in web development.
+I'm a frontend developer dedicated to crafting amazing user interfaces.  
+My journey in web development is fueled by the aspiration to transform ideas  
+into interactive web applications. Armed with __HTML__, __CSS__, __JavaScript__,  
+and __TypeScript__, I focus on writing clean and accessible code. Leveraging  
+modern technologies like __React__, I aim to build dynamic and high-quality web  
+projects. My work's reflects not just my continuous growth but also my unwavering  
+commitment to excellence in web development.
 
 
 ## Technologies I like and work with:
