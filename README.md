@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm [Pavel Egorov](https://Palych18)
 [<img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Palych18)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://palych-web.com)
+[<img alt="Mail" src="https://img.shields.io/badge/Mail-00A4DE?logo=mail.ru&style=for-the-badge&logoColor=white" />](mailto:pavel_egoroff@mail.ru)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/code-sumit/)
-[<img alt="Mail" src="https://img.shields.io/badge/Mail.ru-00A4DE?logo=mail.ru&style=for-the-badge&logoColor=white" />](mailto:pavel_egoroff@mail.ru)
