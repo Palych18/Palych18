@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm [Pavel Egorov](https://Palych18)
-[![Github Badge](https://img.shields.io/badge/-Palych18-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Palych18/)](https://github.com/Palych18/)
-[![Website Badge](https://img.shields.io/badge/-Palych18.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://Palych18.com/)](https://*.com/)
+[<img src="https://img.shields.io/github/followers/Dey-Sumit?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Dey-Sumit)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.sumitdey@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/code-sumit/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech)
