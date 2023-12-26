@@ -4,4 +4,4 @@
 [<img alt="VK" src="https://img.shields.io/badge/VK-4A76A8?logo=vk&style=for-the-badge&logoColor=white">](https://vk.com/feed)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:paulyugoroff@gmail.com)
 
-<h3>Technologies I like and work with:</h3>
+<h2>Technologies I like and work with:</h2>
