@@ -9,7 +9,7 @@
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="margin:2px;"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" style="margin:2px;"/>
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CB6586.svg?&style=for-the-badge&logo=sass&logoColor=white" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
