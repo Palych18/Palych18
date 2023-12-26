@@ -12,6 +12,7 @@ I'm a frontend developer dedicated to crafting amazing user interfaces. My journ
 
 ## Technologies I like and work with:
 
+<p>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" style="margin:2px;"/>
@@ -27,3 +28,4 @@ I'm a frontend developer dedicated to crafting amazing user interfaces. My journ
 <img alt="Git Bash" src="https://img.shields.io/badge/Git_Bash-%23DC9D00?style=flat-square" style="margin:2px;"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" style="margin:2px;"/>
 <br/>
+<p/>
