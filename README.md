@@ -6,9 +6,9 @@
 
 <h2>about me...<h2>
 
-<h6>
-I'm a frontend developer dedicated to crafting amazing user interfaces. My journey in web development is fueled by the aspiration to transform ideas into interactive web applications. Armed with HTML, CSS, JavaScript, and TypeScript, I focus on writing clean and accessible code. Leveraging modern technologies like React, I aim to build dynamic and high-quality web projects. My work's reflects not just my continuous growth but also my unwavering commitment to excellence in web development.
-<h6/>
+
+```I'm a frontend developer dedicated to crafting amazing user interfaces. My journey in web development is fueled by the aspiration to transform ideas into interactive web applications. Armed with HTML, CSS, JavaScript, and TypeScript, I focus on writing clean and accessible code. Leveraging modern technologies like React, I aim to build dynamic and high-quality web projects. My work's reflects not just my continuous growth but also my unwavering commitment to excellence in web development.```
+
 
 <h2>Technologies I like and work with:</h2>
 
