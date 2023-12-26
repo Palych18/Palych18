@@ -4,6 +4,12 @@
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Palych180)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:paulyugoroff@gmail.com)
 
+<h2>about me...<h2>
+
+<p>
+I'm a frontend developer dedicated to crafting amazing user interfaces. My journey in web development is fueled by the aspiration to transform ideas into interactive web applications. Armed with HTML, CSS, JavaScript, and TypeScript, I focus on writing clean and accessible code. Leveraging modern technologies like React, I aim to build dynamic and high-quality web projects. My work's reflects not just my continuous growth but also my unwavering commitment to excellence in web development.
+</p>
+
 <h2>Technologies I like and work with:</h2>
 
 <p>
