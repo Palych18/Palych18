@@ -15,6 +15,7 @@
 <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CB6586.svg?&style=flat-square&logo=sass&logoColor=white" style="margin:2px;"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" style="margin:2px;"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" style="margin:2px;"/>
+<br/>
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" style="margin:2px;"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white" style="margin:2px;"/>
