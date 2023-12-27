@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Pavel Egorov](https://Palych18)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Palych18)
-[<img alt="palych-web" src="https://img.shields.io/badge/Portfolio-%2300693E.svg?&style=for-the-badge">](https://palych-web.com)
+[<img alt="palych-web" src="https://img.shields.io/badge/Portfolio-%2300693E.svg?&style=for-the-badge">](https://egorovdev.com)
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Palych180)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:paulyugoroff@gmail.com)
 
