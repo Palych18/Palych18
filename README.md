@@ -7,9 +7,9 @@
 ## About me...
 
 
-I'm a frontend developer with a passion for creating visually easy on the eye and user-friendly interfaces. My toolkit includes knowledge of __HTML__, __CSS__, __JavaScript__, and __TypeScript__. In addition, I utilize the power of the __React__ library to create dynamic and high-quality web projects.
+I'm a frontend developer passionate about crafting visually easy on the eyes and user-friendly interfaces. My toolkit includes proficiency in __HTML__, __CSS__, __JavaScript__, and __TypeScript__. Additionally, I leverage the capabilities of the __React__ library to build dynamic and high-quality web projects.
 
-My journey in web development is driven by the desire to translate ideas into interactive web applications. I strive to write clean, efficient, and accessible code with a focus on responsive design for all devices, and I strive to contribute to any project I take on.
+My journey in web development is driven by the desire to translate ideas into interactive web applications. I am committed to writing clean, efficient, and accessible code, with a special focus on responsive design across all devices. I am eager to learn and contribute to any project I undertake.
 
 Let's collaborate and bring your ideas to life!
 
